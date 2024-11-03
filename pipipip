@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nailea m gustas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #d800ff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            margin-bottom: 10px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #d800ff;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>˗ˏˋ ★Te gane en todos los juegos★ ˎˊ˗</h1>
+</header>
+
+<main>
+    <center>
+    <h2>Recordatorio </h2>
+    <p>Tu pelo es muy suave.</p>
+    <p>Me gustas</p>
+    </center>
+</main>
+
+<main>
+    <center>
+        <img src="hk.gif" alt="Bsito">
+    </center>
+</main>
+
+<footer>
+    <p> Me encantarón tus uñas</p>
+</footer>
+
+</body>
+</html>
